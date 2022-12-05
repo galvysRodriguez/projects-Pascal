@@ -1,0 +1,15 @@
+para clonar usar 
+git clone (url del repositorio)
+
+para crear ramas
+1-git checkout -b name_branch
+2-git add file.pas
+3-git commit -m "cambio commit"
+4-git remote add origin (url del repositorio)
+<<<<<<< HEAD
+5- git merge main
+=======
+>>>>>>> galvys
+5-git push --set-upstream origin name_branch
+
+solo subir archivo .pas o .txt para descripcion

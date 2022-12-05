@@ -1,0 +1,16 @@
+1-git checkout -b {branch1}
+2-git checkout -b {branch2}
+3-git add {file}
+4-git status
+5-git commit -m "mensaje"
+6-git merge {branch-github}
+7-git checkout {branch1}
+8-git add {file}
+9-git status
+10-git commit -m "mensaje"
+11-git merge {branch-github}
+12-git checkout {branch-github}
+13-git pull
+14-git merge {branch1}
+15-git merge {branch2}
+16-git push

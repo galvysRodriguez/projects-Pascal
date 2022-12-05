@@ -1,0 +1,6 @@
+1-git checkout -b {branch}
+2-git add {file}
+3-git status
+4-git commit -m "mensaje"
+5-git git push --set-upstream origin {branch}
+
